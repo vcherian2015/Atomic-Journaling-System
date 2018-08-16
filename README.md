@@ -1,6 +1,5 @@
 # The Atomic Journaling System
 
-Designed to ...
 ```
                ___                       ___           ___                       ___
               /  /\          ___        /  /\         /__/\        ___          /  /\
@@ -15,6 +14,7 @@ Designed to ...
               \__\/                     \__\/         \__\/                     \__\/
 ```
 
+A system of journaling that will help you align today's actions with tomorrow's ambitions
 
 ## Introduction
 
