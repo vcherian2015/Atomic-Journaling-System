@@ -1,4 +1,4 @@
-# ATOJO, or Atomic Journaling
+# Atomic Journaling (ATOJO)
 
 ```
       ___           ___           ___            ___            ___     
